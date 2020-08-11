@@ -8,7 +8,7 @@ root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w') as f:
     f.write(r'''
-<h3 align="center"> Hi there, I'm [Wei Xia](https://weixia.dev/) 👋</h3>
+<h3 align="center"> Hi there, I'm Wei Xia 👋</h3>
 
 <p align="center">
 <p align="center">
@@ -20,11 +20,7 @@ with open('README.md', 'w') as f:
 </p>
 </p>
 
-<br/>
-<br/>
-
-I am a Full Stack Developer working at IBM. I speak JavaScript.
-
+I am a Full Stack Developer working at IBM.
 
 ## My Recent Blog Posts
 ''')
