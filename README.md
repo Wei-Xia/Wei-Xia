@@ -1,15 +1,17 @@
 
-### Hi there, I'm [Wei Xia](https://weixia.dev/) 👋
+<h3 align="center"> Hi there, I'm [Wei Xia](https://weixia.dev/) 👋</h3>
 
-<a href="https://www.linkedin.com/in/weixia812/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/weixia812">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.zhihu.com/people/weixia812">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/weixia812/">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    </a>
+    <a href="https://twitter.com/weixia812">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    </a>
+    <a href="https://www.zhihu.com/people/weixia812">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
+    </a>
+</p>
 
 <br/>
 <br/>
@@ -17,7 +19,7 @@
 I am a Full Stack Developer working at IBM. I speak JavaScript.
 
 
-## My Blog Posts
+## My Recent Blog Posts
 - 2020-07-28 [gRPC Introduction](http://weixia.info/grpc-introduction.html)
 - 2020-05-30 [Apple CEO Tim Cook's letter on George Floyd Death](http://weixia.info/apple-tim-cook-on-george-floyd.html)
 - 2020-05-01 [Collection of Binary Search Templates](http://weixia.info/binary-search-template.html)
