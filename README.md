@@ -2,15 +2,13 @@
 <h3 align="center"> Hi there, I'm [Wei Xia](https://weixia.dev/) 👋</h3>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/weixia812/">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://twitter.com/weixia812">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-    </a>
-    <a href="https://www.zhihu.com/people/weixia812">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-    </a>
+<p align="center">
+    <a href="https://weixia.dev/linkedin.html">LinkedIn</a> •
+    <a href="https://twitter.com/weixia812">Twitter</a> •
+    <a href="https://weixia.dev/github.html">GitHub</a> •
+    <a href="https://weixia.dev/zhihu.html">知乎</a> •
+    <a href="https://weixia.dev/xueqiu.html">雪球</a>
+</p>
 </p>
 
 <br/>
