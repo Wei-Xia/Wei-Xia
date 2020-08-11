@@ -17,7 +17,7 @@
 I am a Full Stack Developer working at IBM. I speak JavaScript.
 
 
-## Latest blog posts
+## My Blog Posts
 - 2020-07-28 [gRPC Introduction](http://weixia.info/grpc-introduction.html)
 - 2020-05-30 [Apple CEO Tim Cook's letter on George Floyd Death](http://weixia.info/apple-tim-cook-on-george-floyd.html)
 - 2020-05-01 [Collection of Binary Search Templates](http://weixia.info/binary-search-template.html)

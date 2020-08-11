@@ -26,7 +26,7 @@ with open('README.md', 'w') as f:
 I am a Full Stack Developer working at IBM. I speak JavaScript.
 
 
-## Latest blog posts
+## My Blog Posts
 ''')
     for entry in root.findall('nsfeed:entry', nsfeed)[:5]:
         text = entry.find('nsfeed:title', nsfeed).text
