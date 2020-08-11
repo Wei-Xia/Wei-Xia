@@ -18,5 +18,5 @@
 [>>> More blog posts](https://weixia.info/archives/)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=Wei-Xia)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Wei-Xia&hide=ipynb,html&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Wei-Xia&hide=contribs&count_private=true&show_icons=true)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Wei-Xia&hide=Groff)
