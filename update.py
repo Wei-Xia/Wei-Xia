@@ -3,7 +3,7 @@
 import requests
 import xml.etree.ElementTree as ET
 
-feed = requests.get('https://weixia.info/feed.xml').text
+feed = requests.get('https://weixia.info/feed.xml').content
 root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w') as f:
@@ -30,6 +30,7 @@ I am a Full Stack Developer working at IBM. I speak JavaScript.
 ''')
     for entry in root.findall('nsfeed:entry', nsfeed)[:5]:
         text = entry.find('nsfeed:title', nsfeed).text
+        print(text)
         url = entry.find('nsfeed:link', nsfeed).attrib['href']
         published = entry.find('nsfeed:published', nsfeed).text[:10]
         f.write('- {} [{}]({})\n'.format(published, text, url))
