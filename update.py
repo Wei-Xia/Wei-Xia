@@ -29,6 +29,6 @@ with open('README.md', 'w') as f:
 [>>> More blog posts](https://weixia.info/archives/)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=Wei-Xia&hide=contribs&count_private=true&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Wei-Xia&hide=contribs,prs&count_private=true&show_icons=true)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Wei-Xia&hide=Groff&layout=compact)
 ''')
