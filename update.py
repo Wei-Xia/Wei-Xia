@@ -1,7 +1,9 @@
+#!/usr/local/bin/python3
+
 import requests
 import xml.etree.ElementTree as ET
 
-feed = requests.get('https://netcan.github.io/atom.xml').text
+feed = requests.get('https://weixia.info/feed.xml').text
 root = ET.fromstring(feed)
 nsfeed = {'nsfeed': 'http://www.w3.org/2005/Atom'}
 with open('README.md', 'w') as f:
@@ -24,9 +26,9 @@ with open('README.md', 'w') as f:
         f.write('- {} [{}]({})\n'.format(published, text, url))
 
     f.write('''
-[>>> More blog posts](https://netcan.github.io/archives/)
+[>>> More blog posts](https://weixia.info/archives/)
 
 ## Statistics
-![Stats](https://github-readme-stats.vercel.app/api?username=netcan)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=Wei-Xia)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=Wei-Xia&hide=ipynb,html&layout=compact)
 ''')
