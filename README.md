@@ -4,7 +4,6 @@
 <p align="center">
 <p align="center">
     <a href="https://weixia.dev/linkedin.html">LinkedIn</a> •
-    <a href="https://twitter.com/weixia812">Twitter</a> •
     <a href="https://weixia.dev/github.html">GitHub</a> •
     <a href="https://weixia.dev/zhihu.html">知乎</a> •
     <a href="https://weixia.dev/xueqiu.html">雪球</a>
